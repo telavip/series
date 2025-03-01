@@ -125,4 +125,5 @@ const scriptUrls = [
     "https://cdn.jsdelivr.net/gh/telavip/series@main/serie123.js",
     "https://cdn.jsdelivr.net/gh/telavip/series@main/serie124.js",
     "https://cdn.jsdelivr.net/gh/telavip/series@main/serie125.js"
+    "https://cdn.jsdelivr.net/gh/telavip/series@main/serie126.js"
 ];
